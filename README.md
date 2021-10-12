@@ -6,7 +6,7 @@
 
 ## Want to play this game?
 - [CLick Here](https://replit.com/@RoshanDavid/OnePiece#index.js) to play it !
-- Total memory of the system
+
 ## Want to see the coding?
-- [CLick Here](https://replit.com/@RoshanDavid/OnePiece#index.js) to see it !
-- Total memory of the system
+- [CLick Here](https://github.com/rowe20/CLI-Quiz-app/blob/main/quizApp.js) to see it !
+
